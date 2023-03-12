@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa4a9c8-4cba-4027-9a91-4c5b435986cc" name="변경" comment="init commit">
+    <list default="true" id="baa4a9c8-4cba-4027-9a91-4c5b435986cc" name="변경" comment="2023-03-11 | algs4 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/CH1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/CH1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b0204d43-60f7-486b-865a-a7126a260539" />
+        <option name="url" value="https://github.com/jkim6115/JavaAlgo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2MamxbZ7y3GEAeTkqm7e4jpqZiv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -50,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.CH1">
+  <component name="RunManager" selected="애플리케이션.삼각_달팽이">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="JavaAlgo" />
@@ -90,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="삼각_달팽이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.삼각_달팽이" />
+      <module name="JavaAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.삼각_달팽이" />
         <item itemvalue="애플리케이션.CH1" />
         <item itemvalue="애플리케이션.App" />
         <item itemvalue="애플리케이션.P10866" />
@@ -111,7 +136,7 @@
       <workItem from="1678105683479" duration="8000" />
       <workItem from="1678105706811" duration="747000" />
       <workItem from="1678509955777" duration="60000" />
-      <workItem from="1678510942175" duration="63000" />
+      <workItem from="1678510942175" duration="14179000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1678016931501</created>
@@ -120,14 +145,32 @@
       <option name="project" value="LOCAL" />
       <updated>1678016931502</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1678511060971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678511060972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="2023-03-11 | algs4 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-11 | algs4 추가" />
   </component>
 </project>
