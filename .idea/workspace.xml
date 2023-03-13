@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa4a9c8-4cba-4027-9a91-4c5b435986cc" name="변경" comment="2023-03-11 | algs4 추가">
+    <list default="true" id="baa4a9c8-4cba-4027-9a91-4c5b435986cc" name="변경" comment="2023-03-12 | programmers 코딩테스트 ch3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/거리두기_확인하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/거리두기_확인하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/교점에_별_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/교점에_별_만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/삼각_달팽이.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/삼각_달팽이.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/행렬의_곱셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/행렬의_곱셈.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +84,7 @@
       <module name="JavaAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.programmers.*" />
+          <option name="PATTERN" value="org.example.programmers.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="삼각_달팽이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.programmers.삼각_달팽이" />
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.array.삼각_달팽이" />
       <module name="JavaAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.programmers.*" />
+          <option name="PATTERN" value="org.example.programmers.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,7 +140,7 @@
       <workItem from="1678105683479" duration="8000" />
       <workItem from="1678105706811" duration="747000" />
       <workItem from="1678509955777" duration="60000" />
-      <workItem from="1678510942175" duration="14179000" />
+      <workItem from="1678510942175" duration="26361000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1678016931501</created>
@@ -152,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678511060972</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2023-03-12 | programmers 코딩테스트 ch1">
+      <created>1678617570368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678617570368</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023-03-12 | programmers 코딩테스트 ch3">
+      <created>1678617604606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678617604606</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +189,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023-03-11 | algs4 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-11 | algs4 추가" />
+    <MESSAGE value="2023-03-12 | programmers 코딩테스트 ch1" />
+    <MESSAGE value="2023-03-12 | programmers 코딩테스트 ch3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-12 | programmers 코딩테스트 ch3" />
   </component>
 </project>

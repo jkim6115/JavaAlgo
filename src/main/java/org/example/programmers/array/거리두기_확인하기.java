@@ -1,4 +1,4 @@
-package org.example.programmers.level2;
+package org.example.programmers.array;
 
 public class 거리두기_확인하기 {
     private static final int[] dx = {0, -1, 1, 0};
