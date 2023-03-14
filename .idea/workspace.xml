@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa4a9c8-4cba-4027-9a91-4c5b435986cc" name="변경" comment="2023-03-12 | programmers 코딩테스트 ch3">
+    <list default="true" id="baa4a9c8-4cba-4027-9a91-4c5b435986cc" name="변경" comment="2023-03-13 | programmers 코딩테스트 ch4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/거리두기_확인하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/거리두기_확인하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/교점에_별_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/교점에_별_만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/삼각_달팽이.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/삼각_달팽이.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level2/행렬의_곱셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/array/행렬의_곱셈.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +22,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -47,24 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jkim6/Downloads/algs4.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;라이브러리&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jkim6/Downloads/algs4.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "라이브러리",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="애플리케이션.삼각_달팽이">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
@@ -140,7 +137,8 @@
       <workItem from="1678105683479" duration="8000" />
       <workItem from="1678105706811" duration="747000" />
       <workItem from="1678509955777" duration="60000" />
-      <workItem from="1678510942175" duration="26361000" />
+      <workItem from="1678510942175" duration="33204000" />
+      <workItem from="1678778176631" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1678016931501</created>
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678617604606</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2023-03-13 | programmers 코딩테스트 ch4">
+      <created>1678693490845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678693490845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +196,7 @@
     <MESSAGE value="2023-03-11 | algs4 추가" />
     <MESSAGE value="2023-03-12 | programmers 코딩테스트 ch1" />
     <MESSAGE value="2023-03-12 | programmers 코딩테스트 ch3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-12 | programmers 코딩테스트 ch3" />
+    <MESSAGE value="2023-03-13 | programmers 코딩테스트 ch4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-03-13 | programmers 코딩테스트 ch4" />
   </component>
 </project>
